@@ -42,7 +42,17 @@ Human Evaluation (10 Episodes)
 
 ![](https://github.com/Jackson-Crandell/CS7648_Project/blob/main/media/Minigrid_Empty_Human_rewards.png?raw=true)
 
+### TAMER
 
+[WIP]
+
+### Deep TAMER
+
+[WIP]
+
+### Deep TAMER with Maximum Diversity
+
+[WIP]
 
 ## Repository References
 
