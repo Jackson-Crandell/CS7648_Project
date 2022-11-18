@@ -8,8 +8,38 @@ those baselines, we will implement our own version of Deep TAMER + Active Learni
 2. (Optionally) git clone [rl-starter-files](https://github.com/lcswillems/rl-starter-files)
 3. (Optionally) git clone torch-ac
 
+## Minigrid Environment
+
+### Minigrid Empty 5x5
+
+![](https://github.com/Jackson-Crandell/CS7648_Project/blob/main/media/MiniGrid-Empty-5x5-v0.png?raw=true)
+
 ## Current Progress
 
+### RL Agents
+For our RL agents, we implemented a PPO and A2C algorithm based on the rl-starter-files to train our agents. 
+
+*PPO Training Curve*
+
+![](https://github.com/Jackson-Crandell/CS7648_Project/blob/main/media/PPO_Empty_training.png?raw=true)
+
+*PPO Evaluation (100 Episodes)*
+
+![](https://github.com/Jackson-Crandell/CS7648_Project/blob/main/media/PPO_Empty_Scatter.png?raw=true)
+
+*A2C Training Curve*
+
+![](https://github.com/Jackson-Crandell/CS7648_Project/blob/main/media/A2C_Empty_training.png?raw=true)
+
+*A2C Evaluation (100 Episodes)*
+
+![](https://github.com/Jackson-Crandell/CS7648_Project/blob/main/media/A2C_Empty_Scatter.png?raw=true)
+
+### Human Agent
+
+Human Evaluation (10 Episodes)
+
+![](https://github.com/Jackson-Crandell/CS7648_Project/blob/main/media/Minigrid_Empty_Human_rewards.png?raw=true)
 
 
 
