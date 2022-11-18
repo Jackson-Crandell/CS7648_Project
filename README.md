@@ -11,6 +11,7 @@ those baselines, we will implement our own version of Deep TAMER + Active Learni
 ## Minigrid Environment
 
 ### Minigrid Empty 5x5
+This environment is a simple 2D go-to-goal task where the agent (red arrow) learns to reach the goal (green square).
 
 ![](https://github.com/Jackson-Crandell/CS7648_Project/blob/main/media/MiniGrid-Empty-5x5-v0.png?raw=true)
 
